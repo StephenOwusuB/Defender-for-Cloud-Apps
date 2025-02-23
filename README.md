@@ -13,12 +13,12 @@ Defender for Cloud Apps is a powerful solution that allows security operations t
 3. Select **Endpoint**.
 4. Select **Advanced Features**.
 5. Scroll down to find **Microsoft Defender for Cloud Apps** and toggle it on.
-
+![Enable Defender for Cloud Apps](https://github.com/StephenOwusuB/Implementing-Microsoft-Defender-for-Enterprise-Security/blob/main/images/cloud%20app/MDE%20onboard%20165.png)
 ### Cloud App Discovery
 Defender for Cloud Apps discovers the cloud applications in your business through two methods:
 1. **Upload Log Files**: Upload your log files from your local firewall (works with Business Premium).
 2. **Integration with Defender for Endpoint**: Integrate with Defender for Endpoint for continuous automated reports.
-
+![Enable Defender for Cloud Apps](https://github.com/StephenOwusuB/Implementing-Microsoft-Defender-for-Enterprise-Security/blob/main/images/cloud%20app/MDE%20onboard%20164.png)
 ### Creating a Report
 1. Go to the **Microsoft Defender portal**.
 2. Scroll to **Cloud Apps**.
@@ -38,9 +38,13 @@ Microsoft has a catalog of over 30,000 apps scored based on 90 different factors
 ### Cloud App Catalogs
 - View the scores Microsoft has given to apps.
 - Risk scores range from 0 to 10, with Microsoft apps scoring high due to their security, compliance, and legal factors.
-
+![Cloud Apps](https://github.com/StephenOwusuB/Implementing-Microsoft-Defender-for-Enterprise-Security/blob/main/images/cloud%20app/MDE%20onboard%20164.png)
+![Cloud Apps](https://github.com/StephenOwusuB/Implementing-Microsoft-Defender-for-Enterprise-Security/blob/main/images/cloud%20app/MDE%20onboard%20166.png)
+![Cloud Apps](https://github.com/StephenOwusuB/Implementing-Microsoft-Defender-for-Enterprise-Security/blob/main/images/cloud%20app/MDE%20onboard%20167.png)
 ### Action on Applications
 - Search for applications in the catalog and take actions such as sanctioning, unsanctioning, or monitoring.
+![Cloud Apps](https://github.com/StephenOwusuB/Implementing-Microsoft-Defender-for-Enterprise-Security/blob/main/images/cloud%20app/MDE%20onboard%20169.png)
+
 
 ### Enforcing App Access
 1. Go to **Settings**.
@@ -50,6 +54,10 @@ Microsoft has a catalog of over 30,000 apps scored based on 90 different factors
    - This will block access to unsanctioned apps and provide warnings for monitored apps.
    - You can set user notifications, redirect URLs for warned users, and notification URLs for blocked apps.
    - Set bypass duration for warned apps.
+![Cloud Apps](https://github.com/StephenOwusuB/Implementing-Microsoft-Defender-for-Enterprise-Security/blob/main/images/cloud%20app/MDE%20onboard%20170.png)
+![Cloud Apps](https://github.com/StephenOwusuB/Implementing-Microsoft-Defender-for-Enterprise-Security/blob/main/images/cloud%20app/MDE%20onboard%20171.png)
+![Cloud Apps](https://github.com/StephenOwusuB/Implementing-Microsoft-Defender-for-Enterprise-Security/blob/main/images/cloud%20app/MDE%20onboard%20172.png)
+![Cloud Apps](https://github.com/StephenOwusuB/Implementing-Microsoft-Defender-for-Enterprise-Security/blob/main/images/cloud%20app/MDE%20onboard%20172.png)
 
 ### Policy Management
 1. Go to **Cloud Apps**.
